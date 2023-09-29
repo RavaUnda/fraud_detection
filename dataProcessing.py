@@ -6,6 +6,9 @@ This is a temporary script file.
 """
 
 print("Python 888888888888888888888888")
+###Sdding new model to Fraud Detection
+###AAAAAAAAAAAAAAAAAAAAAAAAa
+##SSSSSSSSSSSSS
 
 tupleSample = ('text','para')
 listSample = ['123','456']
